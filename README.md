@@ -46,7 +46,7 @@ The project combines offensive security techniques with defensive monitoring to 
 
 ```
                          ISOLATED VIRTUALBOX INTERNAL NETWORK
-                                  10.10.10.0/24
+                                  192.168.80.0/24
                                          │
                   ┌──────────────────────┼──────────────────────┐
                   │                      │                      │
@@ -264,8 +264,6 @@ System-Hacking-and-Defense-Simulation/
 
 # Evidence
 
-(Add screenshots)
-
 - Nmap Scan
 - Nessus Report
 - Nikto Scan
@@ -302,7 +300,7 @@ System-Hacking-and-Defense-Simulation/
 
 # Disclaimer
 
-This project was conducted exclusively inside an isolated virtual laboratory using systems owned by the author. All testing was performed for educational and defensive research purposes.
+This project was conducted exclusively inside an isolated virtual laboratory using systems owned by the author. All testing was performed for educational and defensive research purposes (C-DAC Project).
 
 ---
 
