@@ -308,6 +308,6 @@ This project was conducted exclusively inside an isolated virtual laboratory usi
 
 # Author
 
-**Rishabh Bhosale**
+**Rishabh Bhosale and Eclipse-X (Team)**
 
-Cybersecurity | Threat Detection | SOC | Blue Team | Red Team
+Cybersecurity | Red Team | Vulnerability Assessment | Threat Detection | SOC
