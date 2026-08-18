@@ -308,6 +308,6 @@ This project was conducted exclusively inside an isolated virtual laboratory usi
 
 # Author
 
-**Karan Sharma**
+**Rishabh Bhosale**
 
 Cybersecurity | Threat Detection | SOC | Blue Team | Red Team
